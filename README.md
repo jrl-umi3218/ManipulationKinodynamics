@@ -1,6 +1,6 @@
 # Manipulation Kinodynamics Dataset
 
-Download the [manipulation kinodynamics dataset](https://seafile.lirmm.fr/f/c77606ed69/).
+Download the [manipulation kinodynamics dataset](https://www.dropbox.com/s/7tuirsinlib1snb/ManipulationKinodynamicsDataset.7z?dl=0).
 
 The archive contains 193 folders, indexed between 000 and 192, each describing a manipulation experiment through the following files:
   - info.csv: object-grasp parameters
